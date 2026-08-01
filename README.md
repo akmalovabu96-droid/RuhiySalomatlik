@@ -18,7 +18,7 @@
 
 ### Birinchi variant: Tezkor ochish (Windows foydalanuvchilari uchun)
 1. Bu sahifadagi **Releases** bo'limiga o'ting.
-2. `Qalqon.exe` o'rnatgichini yuklab oling.
+2. `qalqon_setup.exe` o'rnatgichini yuklab oling.
 3. **O‘rnatgichni ishga tushiring va ekrandagi ko‘rsatmalarga amal qiling. Ilova Yorlig'i ish stolingizda chiqadi!**
 
 ### Ikkinchi variant: Manbai kodni ishga tushirish (Developerlar uchun)
