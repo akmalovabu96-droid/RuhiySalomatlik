@@ -25,11 +25,12 @@
 Agarda loyihani to'g'ridan-to'g'ri Python orqali ishga tushirmoqchi bo'lsangiz:
 
 1. Repozitoriyni clone qiling:
+   
    ```bash
    git clone https://github.com
    cd RuhiySalomatlik
    ```
-2. Ilovani ishga tushiring:
+3. Ilovani ishga tushiring:
    ```bash
    python Qalqon.py
    ```
