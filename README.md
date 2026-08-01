@@ -1,13 +1,13 @@
 # 🛡️ Qalqon (Qalb uchun panoh)
 
-**Qalqon** — bu mutlaqo bepul, qulay va iliq ish stoli ilovasi bo‘lib, stress yoki charchoq paytida ruhiy xotirjamligingizni qo‘llab-quvvatlash uchun yaratilgan. Har safar tugmani bosganingizda, ilova siz uchun chuqur tushuntirishlar va manbalarga havolalar bilan qo‘llab-quvvatlovchi iqtiboslarni ehtiyotkorlik bilan tanlaydi..
+**Qalqon** — bu mutlaqo bepul, qulay va iliq ish stoli ilovasi bo‘lib, stress yoki charchoq paytida ruhiy xotirjamligingizni qo‘llab-quvvatlash uchun yaratilgan. Har safar tugmani bosganingizda, ilova siz uchun chuqur tushuntirishlar va nomlangan manbalarni qo‘llab-quvvatlovchi iqtiboslarni ehtiyotkorlik bilan tanlaydi.
 
 ---
 
 ## ✨ Asosiy xususiyatlar
 
 * **💡 Iliq qo'llab-quvvatlash:** Muvozanatni tiklashga yordam beradigan qo‘llab-quvvatlovchi kalomlar bilan tasodifiy slaydlar.
-* **📚 Chuqur kontekst:** Har bir iqtibosga batafsil tushuntirish va havola manbasi (psixologiya, falsafa, rivoyatlar) qo'shilgan.
+* **📚 Chuqur kontekst:** Har bir iqtibosga batafsil tushuntirish va manba nomi (psixologiya, falsafa, rivoyatlar) qo'shilgan.
 * **🎨 Ko'zlar uchun qulaylik:** Yorqin (yorug‘) va qorong‘i interfeys rejimlarini mahalliy qo‘llab-quvvatlash.
 * **📋 Yaxshilik ulashing:** Istalgan iqtibosni o‘zingizga saqlash yoki yaqinlaringizga yuborish uchun darhol vaqtinchalik xotiraga nusxalash mumkin.
 * **📊 Faoliyat statistikasi:** Ilova "ko‘ngil qalqoni"ni necha marta ko‘targaningizni ehtiyotkorlik bilan va maxfiy ravishda qayd etadi (ma’lumotlar kompyuteringizda ’shield_stats.json’ mahalliy faylida saqlanadi). 
